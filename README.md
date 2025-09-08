@@ -50,6 +50,7 @@ If you love my work, consider supporting me on:
 
 ### 🔗 Connect With Me:
 <p>
+ <a href="mailto:cpamungkas@gramedia.com"><img src="https://img.shields.io/badge/cpamungkas@gramedia.com-8A2BE2"></a>
   <!--<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>-->
 <!--   <a href="https://twitter.com/cpamungkas"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter"></a> -->
 <!--   <a href="https://instagram.com/cpamungkas"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram"></a> -->
